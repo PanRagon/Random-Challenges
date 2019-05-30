@@ -1,7 +1,7 @@
 //Title: Sum Calculator
 //Language: JavaScript
 //Desciption: I'll be creating a function that sums all numbers inputed from the user. There is no restriction to how many numbers the user may input,
-//and the user may stop inputing digits whenever they please. The calculator will only take input from prompt screen (no HTML).
+//and the user may stop inputing numbers whenever they please. The calculator will only take input from prompt screen (no HTML).
 
 function sumCalculator() {
 	let stopInput = false;
