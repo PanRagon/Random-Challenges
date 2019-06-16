@@ -43,5 +43,40 @@ function insertionSort(arr) {
 	return arr;
 }
 
-let sortedArray = insertionSort(unsortedArray);
+
+//Merge Sort
+
+function divide(arr) {
+	if(arr.length < 2) {
+		return arr;
+	}
+	else {
+		let middle = Math.floor(arr.length / 2);
+		let arr1 = arr.slice(0, middle);
+		console.log(arr1);
+		let arr2 = arr.slice(middle);
+		//Divide array until there's only 1 value left, then start sorting
+		return conquer(divide(arr1), divide(arr2));
+	}
+}
+
+
+function conquer(arr1, arr2) {
+	//Store values in sorted order
+	let sorted = [];
+	while(arr1.length && arr2.length) {
+		if(arr1[0] <= arr2[0]) {
+			sorted.push(arr1.shift());
+		}
+		else {
+			sorted.push(arr2.shift());
+		}
+	}
+	//Build a final array of sorted values
+	let sortedArray = [...sorted, ...arr1, ...arr2];
+	console.log(sorted);
+	return sortedArray;
+}
+
+let sortedArray = divide(unsortedArray);
 console.log(sortedArray)
