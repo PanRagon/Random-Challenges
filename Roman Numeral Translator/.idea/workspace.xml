@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fe1ddb1-7c06-4cd6-9818-285850286ae6" name="Default Changelist" comment="" />
+    <list default="true" id="3fe1ddb1-7c06-4cd6-9818-285850286ae6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            <state relative-caret-position="561">
+              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -29,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -41,33 +47,19 @@
     <option name="width" value="1580" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Romertall oversetter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PGR201 (Avansert Javaprogrammering)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Romertall oversetter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PGR201 (Avansert Javaprogrammering)" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566472312350" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566472314733" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -113,7 +105,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -121,11 +112,11 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5021097" side_tool="true" weight="0.2536913" />
       <window_info id="Structure" order="5" sideWeight="0.5021097" side_tool="true" weight="0.2536913" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.4978903" visible="true" weight="0.26040268" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.4978903" visible="true" weight="0.26778522" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -146,8 +137,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+        <state relative-caret-position="561">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
         </state>
       </provider>
     </entry>

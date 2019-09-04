@@ -28,10 +28,10 @@ public class main {
             } else if (number >= 400){
                 number -= 400;
                 romanNumber += (n100 + n500);
-            }else if (number >= 100) {
+            } else if (number >= 100) {
                 number -= 100;
                 romanNumber += n100;
-            }else if (number >= 90) {
+            } else if (number >= 90) {
                 number -= 90;
                 romanNumber += (n10 + n100);
             } else if (number >= 50) {
